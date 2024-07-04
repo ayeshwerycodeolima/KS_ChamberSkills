@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>log with inavalid username and valid passwword</description>
+   <name>verify invalid login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5539d416-3901-454c-94a1-d593fe14a319</testCaseGuid>
+</TestCaseEntity>

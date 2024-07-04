@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify designation field in contact us form</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0f86d207-d1ef-4f64-a660-bd75e1b0078b</testCaseGuid>
+</TestCaseEntity>

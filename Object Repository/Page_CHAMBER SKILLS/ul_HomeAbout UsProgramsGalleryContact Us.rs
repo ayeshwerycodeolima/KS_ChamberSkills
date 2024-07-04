@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_HomeAbout UsProgramsGalleryContact Us</name>
+   <tag></tag>
+   <elementGuidId>4ed46c88-8da6-4665-beec-2e560e137fa1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.nav-bar-nav-section</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/nav/ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;HomeAbout UsProgramsGalleryContact Us&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>7f8e6073-8933-4ac7-b956-6b02a0767751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-bar-nav-section </value>
+      <webElementGuid>39cbc0a3-52cb-43f0-a20c-ad8326a25d23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HomeAbout UsProgramsGalleryContact Us</value>
+      <webElementGuid>c8354896-797d-4831-8088-1bb80c218527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-component-wrapper&quot;]/nav[@class=&quot;nav-bar col-md-12 px-2&quot;]/ul[@class=&quot;nav-bar-nav-section&quot;]</value>
+      <webElementGuid>492edf2d-15c3-45d3-9e00-4c6e36adc940</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/nav/ul</value>
+      <webElementGuid>4473f841-5404-4d37-a960-fbf9ccb2fa0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul</value>
+      <webElementGuid>6383d7e9-6360-49b0-a2bb-21149b6ae3c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'HomeAbout UsProgramsGalleryContact Us' or . = 'HomeAbout UsProgramsGalleryContact Us')]</value>
+      <webElementGuid>aa294019-6c59-4391-b16c-7d22a3b9cf21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

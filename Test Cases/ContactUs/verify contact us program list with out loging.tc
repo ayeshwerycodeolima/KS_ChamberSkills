@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify contact us program list with out loging</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae9637ae-5dd4-45df-9015-f8a061d0a03d</testCaseGuid>
+</TestCaseEntity>

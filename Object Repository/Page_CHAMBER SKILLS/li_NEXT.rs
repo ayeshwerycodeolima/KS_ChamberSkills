@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_NEXT</name>
+   <tag></tag>
+   <elementGuidId>50a1cb9e-9841-4c65-84c8-c33c54bee4fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/section/div[4]/ul/li[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=&quot;NEXT >&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>184d4836-9447-4d0c-9dc9-ade0a1c6d152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pagination-previous-next-container</value>
+      <webElementGuid>d4cd436d-6587-4f14-8390-67f7c46f0f97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NEXT ></value>
+      <webElementGuid>48f26227-ae4a-4647-b1a9-39959140e9a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-component-wrapper&quot;]/section[@class=&quot;program-container d-flex flex-column align-items-center mb-5&quot;]/section[@class=&quot;programs-container d-flex flex-column align-items-center mb-5&quot;]/div[4]/ul[@class=&quot;pagination-container&quot;]/li[@class=&quot;pagination-previous-next-container&quot;]</value>
+      <webElementGuid>ece9ba26-6004-4e50-8593-f423fc98b17b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/section/div[4]/ul/li[4]</value>
+      <webElementGuid>b9fde9de-0539-4012-a436-9adaca28758f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt; PREVIOUS'])[1]/following::li[3]</value>
+      <webElementGuid>6bc05f2d-4a1f-47f7-a66d-6525218092cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View More'])[1]/following::li[4]</value>
+      <webElementGuid>0fd6be33-03be-499d-8544-c38fd5b065f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::li[1]</value>
+      <webElementGuid>5e1fcc42-6e49-4876-b13f-a9f3561194fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li[4]</value>
+      <webElementGuid>85b12bd5-2967-43a0-ad26-baf1188b7c64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'NEXT >' or . = 'NEXT >')]</value>
+      <webElementGuid>1baa9b98-fc68-4640-b63e-4be69e28e7bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

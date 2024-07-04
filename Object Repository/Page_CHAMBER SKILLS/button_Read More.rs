@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Read More</name>
+   <tag></tag>
+   <elementGuidId>3bc00b92-2f06-4e04-b7fd-0101ac2ed81a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#LA002 > button.program-read-more</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='LA002']/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#LA002 >> internal:role=button[name=&quot;Read More&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a565d18f-7ae9-47b1-ad26-6cfe7967c01e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>program-read-more</value>
+      <webElementGuid>baba5d70-af63-48c4-b0ec-fb52b61af299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read More</value>
+      <webElementGuid>1372f36c-bf91-46dc-867d-62b8429ec99e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LA002&quot;)/button[@class=&quot;program-read-more&quot;]</value>
+      <webElementGuid>5a8b02c1-cf9c-4e13-bd76-94b9c8abddc6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='LA002']/button</value>
+      <webElementGuid>7f95914d-f00a-49a4-b29e-d7c09c02b4ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scrum Product Owner Certification under Scrum Study (SPOC)'])[1]/following::button[1]</value>
+      <webElementGuid>d2f55b57-4a6b-4081-8387-d63740e45423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read More'])[1]/following::button[1]</value>
+      <webElementGuid>94e42e7e-f568-47fb-ab53-1c90f94d976a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Statistics in Quality Management and Improvement (With Minitab)'])[1]/preceding::button[1]</value>
+      <webElementGuid>13d6f30f-93a4-476f-ab5a-a8b95e111329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read More'])[3]/preceding::button[1]</value>
+      <webElementGuid>4f095723-193e-4eb4-8fb0-c2c6564e0d3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>60f901b2-27be-4b97-a76d-e6797986296f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Read More' or . = 'Read More')]</value>
+      <webElementGuid>53949bf0-1a58-484d-88fb-7ea6a72f3a35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/section/div[3]/div[2]/button</value>
+      <webElementGuid>8e34e969-3db9-453b-9fa0-0d7fa070501e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

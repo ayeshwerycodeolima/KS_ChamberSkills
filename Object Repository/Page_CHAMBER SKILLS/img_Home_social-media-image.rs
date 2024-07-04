@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Home_social-media-image</name>
+   <tag></tag>
+   <elementGuidId>2d4b2635-0203-45a5-a692-042ca49783ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.d-flex.justify-content-end > img.social-media-image</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^FacebookYouTubeLinkedinKuala Lumpur, Malaysia\+603-22763253$/ >> internal:role=link >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7c03897a-1ff4-4b62-9dc5-6999f35d0954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/icons/login-logout/login.svg</value>
+      <webElementGuid>edd02d9f-71de-4036-8197-5ed4c42c5d3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>social-media-image</value>
+      <webElementGuid>2fa3a4e3-6ebd-4869-8437-5128155df206</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-component-wrapper&quot;]/div[@class=&quot;social-media-container py-3&quot;]/div[@class=&quot;d-flex flex-row&quot;]/a[@class=&quot;d-flex justify-content-end&quot;]/img[@class=&quot;social-media-image&quot;]</value>
+      <webElementGuid>57a3e5f5-dcdb-42f0-a948-40196aef0092</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/a/img</value>
+      <webElementGuid>9b52e8f3-db93-4ec8-84b7-6ca7da02149e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/img</value>
+      <webElementGuid>8f2b3d90-8ba9-49e9-9adb-0bcc0e32c779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/icons/login-logout/login.svg']</value>
+      <webElementGuid>4adece29-a200-4f8d-90af-4b786d6e1b12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

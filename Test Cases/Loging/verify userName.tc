@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>check userName format is valid or not</description>
+   <name>verify userName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d578f05b-f02b-49e3-be03-de81b05ca03a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify Apply button tittle</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b3118751-4a9d-4a8b-ae1c-4f2895d1932b</testCaseGuid>
+</TestCaseEntity>
